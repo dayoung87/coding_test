@@ -30,5 +30,7 @@ Python 사용. 자동 완성 기능 없이 진행.
 2. 막혔던 문제 복습: Fix 검색
 
 git log --oneline _깃로그 출력_
+
 git log --oneline --grep=Graph _그래프 유형 깃로그만 출력_
+
 git log --oneline --grep=Fix _막혔던 문제 로그 출력_
