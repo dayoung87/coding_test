@@ -17,3 +17,10 @@ split() 함수 사용해서 공백 기준으로 나누기
 ``` py
 abs()
 ```
+
+### 버림
+```py
+import math
+
+math.floor()
+```
